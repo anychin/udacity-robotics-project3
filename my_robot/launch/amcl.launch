@@ -14,10 +14,11 @@
     <param name="initial_pose_x" value="0"/>
     <param name="initial_pose_y" value="0"/>
     
-    <param name="min_particles" value="300"/>
-    <param name="max_particles" value="2500"/>
+    <param name="min_particles" value="200"/>
+    <param name="max_particles" value="2000"/>
     <param name="update_min_a" value="0.5"/>
     <param name="update_min_d" value="0.1"/>
+    
     <param name="laser_min_range" value="0.1"/>
     <param name="laser_max_range" value="15"/>
     <param name="laser_max_beams" value="40"/>
